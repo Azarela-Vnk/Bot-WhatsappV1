@@ -1,7 +1,7 @@
 
 <p align="center">
-<a href="https://github.com/Azarela-Vnk/followers"><img title="Followers" src="https://img.shields.io/github/followers/affisjunianto?color=blue&style=flat-square"></a>
-<a href="https://github.com/Azarela-Vnk/Bot-WhatsappV1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/affisjunianto/botwasapv6?color=red&style=flat-square"></a>
+<a href="https://github.com/Azarela-Vnk/followers"><img title="Followers" src="https://img.shields.io/github/followers/Azarela-Vnk?color=blue&style=flat-square"></a>
+<a href="https://github.com/Azarela-Vnk/Bot-WhatsappV1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Azarela-Vnk/Bot-WhatsappV1?color=red&style=flat-square"></a>
 <a href="https://github.com/Azarela-Vnk/Bot-WhatsappV1/network/members"><img title="Forks" src="http://img.shields.io/github/forks/affisjunianto/botwasapv6?color=red&style=flat-square"></a>
 <a href="https://github.com/Azarela-Vnk/Bot-WhatsappV1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/affisjunianto/botwasapv6?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faffisjunianto%2Fbotwasapv6&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
@@ -72,8 +72,7 @@ Change admin and all in folder
 
 
 ## whatsapp number
-* [`WhatsApp`](wa.me/6282334297175)
+* [`WhatsApp`](wa.me/62856917288391)
 ### Donate
-* [`Saweria`](https://saweria.co/ampibibot)
-* [`Dana : +62895710073737`]
-* [`Pulsa : +628233429775`]
+* [`Dana : +6285691724140`]
+* [`Pulsa : +6285691724140`]
